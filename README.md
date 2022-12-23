@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkkonts
-- 👀 I’m interested in any kind of remote job please
-- 🌱 I’m currently learning C++ with QT5 and SQL in BMSTU named after Bauman, also practicing in python. 
+- 👀 I’m interested in any kind of remote job
+- 🌱 I’m currently learning C++ with QT5 and SQL in BMSTU, also practicing in python. 
 - 💞️ I’m looking to collaborate on web-projects (with Django + React stack) or ML/DL projects.
 - 📫 You can reach me via telegram @kkkonts or email me vahram339@gmail.com
 
